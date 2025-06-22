@@ -1,28 +1,22 @@
 export default function TeamPage() {
   const teamMembers = [
     {
-      name: "Yau-Meng Wong",
-      title: "Director",
-      image: "/team/yaumengwong.png",
-      link: "https://www.linkedin.com/in/yau-meng-wong-721a5522b/"
-    },
-    {
       name: "Ryan Zhang",
-      title: "Deputy Director",
+      title: "Co-Director",
       image: "/team/ryan-zhang.jpg",
       link: "https://www.linkedin.com/in/rhyzhang/"
-    },
-    {
-      name: "Paul Kroeger",
-      title: "Director of Research",
-      image: "/team/paul_kroeger.jpeg",
-      link: "https://www.linkedin.com/in/paul-kroeger/"
     },
     {
       name: "Olivia Long",
       title: "Director of Outreach",
       image: "/team/olivia_long.jpg",
       link: "https://www.linkedin.com/in/olivia-l-572351246"
+    },
+    {
+      name: "Paul Kroeger",
+      title: "Director of Research",
+      image: "/team/paul_kroeger.jpeg",
+      link: "https://www.linkedin.com/in/paul-kroeger/"
     },
     {
       name: "Thomas Gansa",
@@ -35,12 +29,6 @@ export default function TeamPage() {
       title: "Policy Fellowship Lead",
       image: "/team/pranav_mehta.jpeg",
       link: "https://www.linkedin.com/in/pranavmehta97/"
-    },
-    {
-      name: "Shivani Rajagopalan",
-      title: "Treasurer",
-      image: "/team/shivani-rajagopalan.jpeg",
-      link: "https://www.linkedin.com/in/shivani-rajagopalan-787235223/"
     },
     {
       name: "Catherine Mok",
@@ -80,6 +68,12 @@ export default function TeamPage() {
       title: "Faculty Advisor",
       image: "/team/micah_goldblum.jpg",
       link: "https://www.linkedin.com/in/micah-goldblum-9427b817b/"
+    },
+    {
+      name: "Yau-Meng Wong",
+      title: "Advisor and Former Director",
+      image: "/team/yaumengwong.png",
+      link: "https://www.linkedin.com/in/yau-meng-wong-721a5522b/"
     },
     {
       name: "Alexandra Bates",
