@@ -8,7 +8,7 @@ export default function TeamPage() {
     },
     {
       name: "Olivia Long",
-      title: "Director of Outreach",
+      title: "Co-Director",
       image: "/team/olivia_long.jpg",
       link: "https://www.linkedin.com/in/olivia-l-572351246"
     },
