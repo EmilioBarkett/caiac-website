@@ -1,5 +1,15 @@
 const researchEntries = [
-  
+
+  {
+    title: "Reasoning Isn't Enough: Examining Truth-Bias and Sycophancy in LLMs",
+    authors: [
+      { name: "Emilio Barkett", isPI: true },
+      { name: "Olivia Long" },
+      { name: "Madhavendra Thakur" }
+    ],
+    date: "June 12, 2025",
+    link: "https://arxiv.org/abs/2506.21561"
+  },
   {
     title: "The Partially Observable Off-Switch Game",
     authors: [
