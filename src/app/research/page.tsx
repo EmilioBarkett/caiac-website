@@ -1,11 +1,21 @@
 const researchEntries = [
-
+  {
+    title: "Efficiently Detecting Hidden Reasoning with a Small Predictor Model",
+    authors: [
+      { name: "Rohan Subramani", isPI: true },
+      { name: "Vishnu Vardhan Sai Lanka" },
+      { name: "Yau-Meng Wong", isPI: true },
+      { name: "Daria Ivanova" }
+    ],
+    date: "July 13, 2025",
+    link: "https://www.lesswrong.com/posts/QdQnM4v8KbLZZdjH5/efficiently-detecting-hidden-reasoning-with-a-small"
+  },
   {
     title: "Reasoning Isn't Enough: Examining Truth-Bias and Sycophancy in LLMs",
     authors: [
       { name: "Emilio Barkett", isPI: true },
-      { name: "Olivia Long" },
-      { name: "Madhavendra Thakur" }
+      { name: "Olivia Long", isPI: true },
+      { name: "Madhavendra Thakur", isPI: true }
     ],
     date: "June 12, 2025",
     link: "https://arxiv.org/abs/2506.21561"
