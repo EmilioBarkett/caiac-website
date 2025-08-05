@@ -1,5 +1,15 @@
 const researchEntries = [
   {
+    title: "Getting out of the Big-Muddy: Escalation of Commitment in LLMs",
+    authors: [
+      { name: "Emilio Barkett", isPI: true },
+      { name: "Olivia Long", isPI: true },
+      { name: "Paul Kröger", isPI: true }
+    ],
+    date: "August 3, 2025",
+    link: "https://arxiv.org/abs/2508.01545"
+  },
+  {
     title: "Efficiently Detecting Hidden Reasoning with a Small Predictor Model",
     authors: [
       { name: "Rohan Subramani", isPI: true },
