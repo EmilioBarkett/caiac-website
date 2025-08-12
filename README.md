@@ -38,6 +38,9 @@ We use markdown rendering to render your content.
 - add any photos under public/news/
 - the main page displays the last 3 entries
 
+## Analytics Platforms
+- https://analytics.google.com/
+- https://search.google.com/
 
 ## Learn More
 
