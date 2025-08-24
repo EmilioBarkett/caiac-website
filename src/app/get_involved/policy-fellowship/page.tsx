@@ -87,7 +87,7 @@ export default function PolicyFellowshipPage() {
         </p>
 
         <p className="text-gray-800 text-lg leading-relaxed">
-          It will discuss questions such as:
+          We'll discuss questions such as:
         </p>
 
         <ul className="list-disc pl-8 space-y-2 text-gray-800 text-lg leading-relaxed">
@@ -154,21 +154,21 @@ export default function PolicyFellowshipPage() {
           </a> for the curriculum (subject to change).
         </p>
 
-        <p><strong>Applications for the Spring 2025 Policy & Governance Fellowship are now closed! Apply <a 
-            href="https://docs.google.com/forms/d/e/1FAIpQLSczK9XAsuIi5WMWMwmGrzw463eBvrD0stm3MT9jTBEGWtAfBQ/viewform?usp=sharing" 
+        <p><strong>Applications for the Fall 2025 Policy & Governance Fellowship are now open! Apply <a 
+            href="https://forms.gle/JdRKQPrYQzAFNQzF6" 
             className="text-[#4A8A99] hover:underline"
             target="_blank"
             rel="noopener noreferrer"
           >
             here 
           </a>.</strong> </p>
-          <p><strong>Application Deadline: January 31.</strong></p>
+          <p><strong>Application Deadline: September 12.</strong></p>
         <p>For those interested in the technical side of AI safety, we recommend applying to our introductory <a 
             href="/get_involved/technical-fellowship" 
             className="text-[#4A8A99] hover:underline"
             
           >technical fellowship 
-          </a>. It is possible to participate in both programs.
+          </a>. This being said, you're welcome to participate in both programs!
 
 
         </p>

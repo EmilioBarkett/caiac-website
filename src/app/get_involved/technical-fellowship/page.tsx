@@ -86,7 +86,7 @@ export default function TechnicalFellowshipPage() {
       <h1 className="text-4xl font-light tracking-wide mb-8">Technical Fellowship</h1>
       <div className="space-y-8 mb-16">
         <p className="text-gray-800 text-lg leading-relaxed">
-          Every semester and summer, CAIAC runs an <strong>8-week introductory reading group on AI safety</strong>, covering topics like neural network interpretability
+          Every semester, CAIAC runs an <strong>8-week introductory reading group on AI safety</strong>, covering topics like neural network interpretability
           <a 
             href="https://distill.pub/2020/circuits/zoom-in/" 
             className="text-[#4A8A99] hover:underline align-super text-sm"
@@ -126,21 +126,21 @@ export default function TechnicalFellowshipPage() {
             here 
           </a> for the curriculum (subject to change).
         </p>
-        <p><strong>Applications for the Spring 2025 Techincal Fellowship are now closed! Apply <a 
-            href="https://forms.gle/u7YLKcV5PEdGEnCg8" 
+        <p><strong>Applications for the Fall 2025 Technical Fellowships are now open! Apply <a 
+            href="https://forms.gle/e3VVFNCER7yN9jmu5" 
             className="text-[#4A8A99] hover:underline"
             target="_blank"
             rel="noopener noreferrer"
           >
             here 
           </a></strong>. </p>
-          <p><strong>Application Deadline: January 31.</strong></p>
+          <p><strong>Application Deadline: September 12.</strong></p>
         <p>For those interested in the policy and governance side of AI, we recommend applying to our introductory <a 
             href="/get_involved/policy-fellowship" 
             className="text-[#4A8A99] hover:underline"
             
           >policy fellowship 
-          </a>. It is possible to participate in both programs.
+          </a>. This being said, you're welcome to participate in both programs!
 
 
         </p>
