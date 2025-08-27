@@ -1,5 +1,14 @@
 const researchEntries = [
   {
+    title: "The AI in the Mirror: LLM Self-Recognition in an Iterated Public Goods Game",
+    authors: [
+      { name: "Olivia Long", isPI: true },
+      { name: "Carter Teplica", isPI: true }
+    ],
+    date: "August 25, 2025",
+    link: "https://arxiv.org/abs/2508.18467"
+  },
+  {
     title: "Getting out of the Big-Muddy: Escalation of Commitment in LLMs",
     authors: [
       { name: "Emilio Barkett", isPI: true },
