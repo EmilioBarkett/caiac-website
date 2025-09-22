@@ -126,15 +126,7 @@ export default function TechnicalFellowshipPage() {
             here 
           </a> for the curriculum (subject to change).
         </p>
-        <p><strong>Applications for the Fall 2025 Technical Fellowships are now open! Apply <a 
-            href="https://forms.gle/e3VVFNCER7yN9jmu5" 
-            className="text-[#4A8A99] hover:underline"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            here 
-          </a></strong>. </p>
-          <p><strong>Application Deadline: September 12.</strong></p>
+        <p><strong>Applications for the Fall 2025 Technical Fellowships are now closed! Please look out for us next semester.</strong>. </p>
         <p>For those interested in the policy and governance side of AI, we recommend applying to our introductory <a 
             href="/get_involved/policy-fellowship" 
             className="text-[#4A8A99] hover:underline"
