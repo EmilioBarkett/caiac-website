@@ -154,15 +154,7 @@ export default function PolicyFellowshipPage() {
           </a> for the curriculum (subject to change).
         </p>
 
-        <p><strong>Applications for the Fall 2025 Policy & Governance Fellowship are now open! Apply <a 
-            href="https://forms.gle/JdRKQPrYQzAFNQzF6" 
-            className="text-[#4A8A99] hover:underline"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            here 
-          </a>.</strong> </p>
-          <p><strong>Application Deadline: September 12.</strong></p>
+        <p><strong>Applications for the Fall 2025 Policy & Governance Fellowship are now closed! Please look out for us next semester.</strong> </p>
         <p>For those interested in the technical side of AI safety, we recommend applying to our introductory <a 
             href="/get_involved/technical-fellowship" 
             className="text-[#4A8A99] hover:underline"
