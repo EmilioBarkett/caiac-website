@@ -21,7 +21,7 @@ export default function TeamPage() {
     {
       name: "Emilio Barkett",
       title: "Research Manager",
-      image: "/team/paul_kroeger.jpeg",
+      image: "/team/emilio_barkett.jpg",
       link: "https://www.linkedin.com/in/emiliobarkett/"
     },
     {
